@@ -6,8 +6,6 @@ Explore a step-by-step guide to building a data analytics pipeline using Azure i
 
 ## Project's Sections
 
-- ..........
-- ............
 - Introduction
 - Explain the Architecture of the project
 - Explain the steps of the project
