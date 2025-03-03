@@ -37,6 +37,7 @@ Explore a step-by-step guide to building a data analytics pipeline using Azure i
 - SQL
 - PySpark
 - Azure Blob Storage
+- Azure Data Lake
 - Azure Data Factory
 - Azure Databricks
 - Azure Synapse Analystics
